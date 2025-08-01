@@ -1,4 +1,4 @@
-# Introduction 
+# Introduction (2023)
 A plataforma web será capaz de gerir informações sobre alojamentos, incluindo dados como o tipo de alojamento, localização, preço, disponibilidade, e outros detalhes importantes tais como os serviços adicionais. Além disso, terá uma utilização facilitada para os proprietários e para os clientes. Também permitirá aos anunciantes a promoção dos alojamentos.
 
 # Getting Started
